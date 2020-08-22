@@ -1,0 +1,2 @@
+# Movie-Recommendation-System-using-Collaborative-Filtering
+In this course, we are going to focus on the following learning objectives:  Learn to create, train and evaluate recommendation engine with Scikit-Surprise. Learn to clean, analyse and use real-word datasets for recommendation systems. By the end of this course, you will be able to create a recommendation system from scratch using Collaborative Filtering that learns from past user behaviour and use it to give unique recommendations for every user based on their past ratings.
